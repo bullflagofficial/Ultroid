@@ -37,12 +37,12 @@
 ---
 
 ## Deploy to Heroku
-Get the [Necessary Variables](#Necessary-Variables) and then click the button below!  
+Get the [Necessary Variables](#Necessary-Variables) and then click the button belosw!  
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://deploy.ultroid.tech)
 
 ## Deploy to Okteto
-Get the [Necessary Variables](#Necessary-Variables) and then click the button below!
+Get the [Necessary Variables](#Necessary-Variables) and then click the button belows!
 
 [![Develop on Okteto](https://okteto.com/develop-okteto.svg)](https://cloud.okteto.com/deploy?repository=https://github.com/TeamUltroid/Ultroid)
 
